@@ -1,0 +1,3 @@
+使用tkinter.Tk().after方法循环主程序， 代替while循环+新线程控制窗口的方式；
+使用tkinter.Tk().withdraw方法与tkinter.Tk().deiconify方法控制窗口隐藏与出现；
+使用processed字典判断是否已在当前时间执行操作。
