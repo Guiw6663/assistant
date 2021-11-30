@@ -1,0 +1,3 @@
+wps.exe
+EasiNote.exe
+Music.UI.exe
